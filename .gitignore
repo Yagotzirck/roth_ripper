@@ -1,0 +1,9 @@
+/bin
+/obj
+/ROTH_Resources
+
+*.o
+*.obj
+*.exe
+*.depend
+*.layout
